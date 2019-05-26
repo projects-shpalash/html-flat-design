@@ -1,2 +1,2 @@
-# html-flat-design
-A flat/material design HTML static website
+# html-flat
+A flat style template with HTML5 and CSS3
